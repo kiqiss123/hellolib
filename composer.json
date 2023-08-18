@@ -1,0 +1,17 @@
+{
+    "name": "classtry/hellolib",
+    "description": "contoh sederhana",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "balkis",
+            "email": "balkisbalkis789@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload" : {
+        "psr-4" : { "classtry\\hellolib\\" : "src/"}
+    },
+    "require": {}
+}
